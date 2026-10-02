@@ -19,7 +19,7 @@ The AI Mail Classification & Filing Engine automatically classifies incoming ema
 
 The solution is available as a live demo and can be adapted to your mailbox structure and categories.
 
-**Contact:** ilume Informatik AG — [Website / E-Mail einfügen]
+**Contact:** ilume Informatik AG — https://ilume.de/camunda / camunda@lume.de
 
 ## License
 
